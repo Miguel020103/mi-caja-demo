@@ -1,6 +1,6 @@
 # MI CAJA — Demo Web
 
-Esta es la versión web de demostración de **MI CAJA**, una aplicación desarrollada en Flutter para el control personal de ingresos y gastos diarios.
+Esta es la versión web de demostración de **MI CAJA**, una aplicación desarrollada en Flutter pensada para conductores de InDrive.
 
 ## 🔗 Demo en vivo
 
@@ -8,11 +8,16 @@ Esta es la versión web de demostración de **MI CAJA**, una aplicación desarro
 
 ## ¿Qué es MI CAJA?
 
-Aplicación personal para registrar y controlar ingresos y gastos del día a día. Permite llevar un seguimiento claro del dinero que entra y sale, facilitando el control financiero personal.
+MI CAJA es una herramienta de contabilidad personal diseñada específicamente para conductores de InDrive.  
+Permite registrar de forma rápida y sencilla los **ingresos** y **gastos** del día a día (combustible, mantenimiento, comidas, peajes, etc.), para llevar un control claro y eficiente de las ganancias reales.
+
+## Objetivo
+
+Ayudar al conductor a saber con precisión cuánto está ganando realmente después de descontar todos los gastos operativos, de una forma simple y práctica.
 
 ## Notas
 
-- Esta es una versión **web de demostración**.
+- Esta es una versión **web de demostración** (la app aún está en desarrollo).
 - El código fuente de la aplicación no está incluido en este repositorio.
 - Desarrollado con Flutter + Hive.
 
